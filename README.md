@@ -1,5 +1,5 @@
 # Single-image-dehazing-using-improved-cycleGAN
-This is the code for the journal `Single image dehazing using improved cycleGAN` published in <a href="https://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation">JVCI</a>.
+This is the code for the journal paper `Single image dehazing using improved cycleGAN` published in <a href="https://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation">JVCI</a>.
 
 
 

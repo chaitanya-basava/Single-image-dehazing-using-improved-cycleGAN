@@ -45,6 +45,7 @@ project
 │           | img1.jpg
 │           | img2.jpg
 │           | ...
+|
 └───checkpoint
     └───<dataset_name>_<img size>
 ```
